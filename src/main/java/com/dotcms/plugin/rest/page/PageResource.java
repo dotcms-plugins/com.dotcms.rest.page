@@ -53,7 +53,7 @@ import com.liferay.portal.util.WebKeys;
  * Call 
  *
  */
-@Path("/page")
+@Path("/v0/page")
 public class PageResource  {
 
     private final WebResource webResource = new WebResource();
