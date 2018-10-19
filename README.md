@@ -1,5 +1,5 @@
 
-# README
+# Page as a Service
 ----
 This plugin offers a custom REST endpoint that was the precursor to the layout as a service found here:
 https://doc.dotcms.com/docs/latest/page-rest-api-layout-as-a-service-laas
