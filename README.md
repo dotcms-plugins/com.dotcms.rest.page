@@ -1,7 +1,8 @@
 
 # README
 ----
-This plugin offers two example REST end points
+This plugin offers a custom REST endpoint that was the precursor to the layout as a service found here:
+https://doc.dotcms.com/docs/latest/page-rest-api-layout-as-a-service-laas
 
 ## 1. PageResource
 
